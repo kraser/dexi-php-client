@@ -3,3 +3,4 @@
 configuration.ini
 composer.lock
 vendor/
+/nbproject/private/
